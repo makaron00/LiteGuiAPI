@@ -1,0 +1,4 @@
+name: LiteGuiAPI
+version: '1.1'
+main: org.makaron.ua.liteguiapi.LiteGuiAPI
+api-version: '1.16'
